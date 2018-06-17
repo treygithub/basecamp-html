@@ -1,0 +1,87 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 7px;
+    padding-top: 15px;
+}
+.right{
+    float: right;
+    margin-right: 20px;
+}
+.left{
+    margin-left: 10px;
+    float: left;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 2rem;
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+ul{
+    margin: 0%;
+    overflow: hidden;
+    background-color: gray;
+    overflow: hidden;
+}
+#monkey{
+    height: 250px;
+    background-color: black;
+    margin-top: 0%;
+    overflow: hidden;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    padding-top: 50px;
+    color: yellow;
+    font-size: 4em;
+
+}
+.flex-container{
+    display: flex;
+    display: row;
+    padding: 20px;
+
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-radius: 5%;
+    margin:auto;
+}
+.box-4-5{
+    height: 150px;
+    width: 500px;
+    background-color: burlywood;
+    margin: auto;
+}
+.box-f{
+    margin: auto;
+    height: 200px;
+    width: 300px;
+}
+
+footer{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(49, 35, 131);
+}
+#text-box{
+    max-width: 300px;
+    max-height: 200px;
+    overflow: hidden;
+}
+#pic-box{
+    background-image: url('https://c402277.ssl.cf1.rackcdn.com/photos/11552/images/hero_full/rsz_namibia_will_burrard_lucas_wwf_us_1.jpg?1462219623');
+    background-size: 100%;
+    background-repeat: none;
+    background-size: cover;
+}
